@@ -1,0 +1,7 @@
+ Var: y[2][2];
+                    Function: main
+                    Parameter: z[2][2]
+                    Body:
+                        z = y;
+                    EndBody.
+                    

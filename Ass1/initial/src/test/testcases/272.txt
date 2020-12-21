@@ -1,0 +1,5 @@
+Function: how Body:
+                For (i = 1024, i > 3, get("json")) Do
+                    Var: x; x = 3;
+                EndFor.
+            EndBody.

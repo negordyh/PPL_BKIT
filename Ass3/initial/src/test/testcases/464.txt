@@ -1,0 +1,6 @@
+ Function: main
+                    Body:
+                        Var: y[2][2][2];
+                        y = {{{"h", "o"}, {"h", "o"}},{{"h", "o"}, {"h", "o"}}};
+                    EndBody.
+                    

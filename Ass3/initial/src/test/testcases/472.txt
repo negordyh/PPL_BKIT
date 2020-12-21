@@ -1,0 +1,12 @@
+ Var: y[2][2];
+                    Function: foo
+                    Body:
+                        y = {{0X123, 0x124}, {1, 2}};                    
+                    EndBody.
+
+                    Function: main
+                    Parameter: y[2]
+                    Body:
+                        y = {0X123, 0x124};
+                    EndBody.
+                    

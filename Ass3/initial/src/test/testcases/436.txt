@@ -1,0 +1,7 @@
+
+        Var: a[10], arr[10];
+        Function: main
+            Body:
+                a = arr;
+            EndBody.
+        

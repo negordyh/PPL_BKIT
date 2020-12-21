@@ -1,0 +1,10 @@
+ Var: y[2];
+                    Function: main
+                    Parameter: z[2]
+                    Body:
+                        z = {True, False};
+                        z = {False, True};
+                        y = {2, 3};
+                        z = y;
+                    EndBody.
+                    

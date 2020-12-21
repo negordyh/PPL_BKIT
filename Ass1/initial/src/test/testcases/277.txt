@@ -1,0 +1,3 @@
+Function: how Body:
+                Do x = x + 1; If x == 3 Then Break; EndIf. While True Do x = get(); EndWhile. While True EndDo.
+            EndBody.

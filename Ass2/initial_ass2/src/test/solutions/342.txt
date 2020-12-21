@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo)[],([][If(BinaryOp(==,Id(a),Id(b)),[],[Assign(Id(a),Id(b))])ElseIf(BinaryOp(==,Id(a),Id(c)),[],[Assign(Id(a),Id(c))])ElseIf(BinaryOp(==,Id(a),Id(d)),[],[Assign(Id(a),Id(d))])ElseIf(BinaryOp(==,Id(a),Id(e)),[],[Assign(Id(a),Id(e))])ElseIf(BinaryOp(==,Id(a),Id(f)),[],[Assign(Id(a),Id(f))])Else([],[Assign(Id(a),Id(g))])]))])

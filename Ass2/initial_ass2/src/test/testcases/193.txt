@@ -1,0 +1,2 @@
+[n, m] = nput().strip().split()))
+s = [abs(l[i+1] - l[i])

@@ -1,0 +1,4 @@
+Function : main 
+Body:
+foo(x, y, z)[i] = 1;
+EndBody.

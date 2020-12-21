@@ -1,0 +1,11 @@
+
+        Function: foo
+        Parameter: a,b,c, a[10][10]
+        Body:
+            Var: a = 6, foo[10][10];
+            a[3 + foo(foo(2+x,4.\. y) ) + foo(10)] = foo(foo(6));
+            foo(2+x,4.\. y); 
+            goo (goo (goo (goo (goo ()))));
+            arrray[array[10] + foo() + abc + "string"] = "string";
+        EndBody.
+        

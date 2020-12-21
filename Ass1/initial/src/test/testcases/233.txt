@@ -1,0 +1,9 @@
+
+        Var: x=5,a,b=5, a[4] = {1,2,3,{1}};
+        Function: fact
+        Parameter: a,b,c
+        Body:
+            
+        EndBody.
+
+        

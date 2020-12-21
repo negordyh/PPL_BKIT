@@ -1,0 +1,10 @@
+
+        Function: loop_test
+        Body:
+            For(i = 0, a == b) Do
+                If a[foo() + b] Then
+                    b = c;
+                EndIf.
+            EndFor.
+        EndBody.
+        

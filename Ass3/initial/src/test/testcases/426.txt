@@ -1,0 +1,11 @@
+
+        Function: main
+        Body:
+        Var: x,y;
+        x=1.1;
+        If 1>2 Then Var: x; x=1;
+        Else y=x;
+        EndIf.
+        y=1;
+        Return;
+        EndBody.

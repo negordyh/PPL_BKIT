@@ -1,0 +1,7 @@
+ Var: x[2][2];
+                    Function: main
+                    Body:
+                        x = {{1 , 2},{0x12 , 0o22}};
+                        x[1][2] = True;
+                    EndBody.
+                    

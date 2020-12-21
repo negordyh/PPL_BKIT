@@ -1,0 +1,4 @@
+Function : main 
+Body:
+foo()[i] = 1;
+EndBody.

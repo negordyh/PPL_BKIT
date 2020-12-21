@@ -1,0 +1,10 @@
+Function: foo
+Body:
+If a==b Then a=b;
+ElseIf a==c Then a=c;
+ElseIf a==d Then a=d;
+ElseIf a==e Then a=e;
+ElseIf a==f Then a=f;
+Else a=g;
+EndIf.
+EndBody.

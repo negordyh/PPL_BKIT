@@ -1,0 +1,13 @@
+
+        Function: foo
+        Parameter: x
+            Body:
+            Var: z = 5;
+            z = x;
+            EndBody.
+        Function: main
+            Body:
+            Var: x = 5;
+            x = foo(3.5);
+            EndBody.
+        

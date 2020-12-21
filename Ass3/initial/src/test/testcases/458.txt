@@ -1,0 +1,20 @@
+ Var: x, y;
+
+                    Function: foo
+                    Parameter: x
+                    Body:
+                        x = 14;
+                    EndBody.
+
+                    Function: main
+                    Parameter: x, z
+                    Body:
+                        x = 2;
+                    EndBody.
+
+                    Function: bar
+                    Parameter: z
+                    Body:
+                        x = "how";
+                    EndBody.
+                    

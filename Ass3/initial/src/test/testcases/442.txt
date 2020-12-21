@@ -1,0 +1,9 @@
+
+        Function: main
+        Parameter: a[1][1],b
+        Body:
+        a[b][1]=1;
+        b=1.1;
+        EndBody.
+
+

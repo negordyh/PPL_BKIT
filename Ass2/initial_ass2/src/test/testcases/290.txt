@@ -1,0 +1,9 @@
+Function: how Body:
+                While (x > 3 || (y != x)) Do
+                    x= x+2;
+                    While (a * 3 == 2) Do
+                        a = a + x;
+                        print(x);
+                    EndWhile.
+                EndWhile.
+            EndBody.

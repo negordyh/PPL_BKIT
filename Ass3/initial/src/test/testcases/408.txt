@@ -1,0 +1,12 @@
+
+        Var: a;
+
+        Function: main
+        Body:
+        Var: a;
+        If 2>1 Then 
+            a=1;
+        EndIf.
+        a=1.1;
+        Return;
+        EndBody.   

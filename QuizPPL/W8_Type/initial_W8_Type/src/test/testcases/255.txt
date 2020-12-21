@@ -1,0 +1,10 @@
+
+        Function: foo
+        Parameter: a,b,c, a[10][10]
+        Body:
+            Var: a = 6, foo[10][10];
+            Var: a = 6, foo[10][10], a = "string";
+            arrray[array[10] + foo() + abc + "string" && abc || bcd +. ({1,2,3})] = 1;
+            arrray[array[10] + 1] = 1;
+        EndBody.
+        

@@ -1,0 +1,3 @@
+Function: main
+        Parameter: a, c[1] Body:
+        Var: x = "sdasdas";

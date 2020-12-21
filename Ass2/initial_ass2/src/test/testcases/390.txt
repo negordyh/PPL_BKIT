@@ -1,0 +1,4 @@
+Function : main 
+Body:
+x[2] = 1;
+EndBody.

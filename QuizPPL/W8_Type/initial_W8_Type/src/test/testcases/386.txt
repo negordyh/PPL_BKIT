@@ -1,0 +1,4 @@
+Function : main 
+Body:
+expr = a[foo() + 1];
+EndBody.

@@ -1,0 +1,6 @@
+Function : foo
+Parameter : x
+Body:
+    Var : y = 9;
+    print(x);
+EndBody. 

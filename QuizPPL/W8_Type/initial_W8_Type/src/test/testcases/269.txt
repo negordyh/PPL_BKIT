@@ -1,0 +1,8 @@
+Function: how Body:
+                For (i = 1, i < 56, 1) Do
+                    print(i);
+                    For (k= 0,k<3,1) Do
+                        k = k+1;
+                    EndFor.
+                EndFor.
+            EndBody.

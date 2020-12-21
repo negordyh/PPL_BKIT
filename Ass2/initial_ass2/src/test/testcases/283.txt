@@ -1,0 +1,1 @@
+Function: how Body: y = 0x567 * (0o124 - 15 \ 3); EndBody.

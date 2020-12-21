@@ -1,0 +1,7 @@
+ Var: x , y;
+                    Function: foo
+                    Parameter: x, z
+                    Body:
+                        Var: y = 2, c;
+                    EndBody.
+                    

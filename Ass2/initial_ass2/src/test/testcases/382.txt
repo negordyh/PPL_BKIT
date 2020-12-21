@@ -1,0 +1,19 @@
+
+            Function: main
+            Body:
+                If (x==2) || (x%4==0) Then
+                    If (x==4) || (x%8==0) Then
+                        If (x==2) || (x%4==0) Then
+                            For(i=0, i<x, i+2) Do
+                                Var: res = 1;
+                                While(i>0) Do
+                                    res = res \. i;
+
+                                EndWhile.
+                            EndFor.
+                        EndIf.
+                    EndIf.
+                EndIf.
+            EndBody.    
+
+        

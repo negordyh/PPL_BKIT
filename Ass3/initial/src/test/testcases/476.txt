@@ -1,0 +1,10 @@
+ Var: y[2][2];
+                    Function: main
+                    Parameter: z[2][2]
+                    Body:
+                        y = {{2, 3},{4, 5}};
+                        y = {{0x123, 0x124},{0x1, 0x2}};
+                        z = {{"s", "t"}, {"m", "t"}};
+                        z = y;
+                    EndBody.
+                    

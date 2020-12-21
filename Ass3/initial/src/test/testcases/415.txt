@@ -1,0 +1,8 @@
+
+        Function: main
+        Parameter: a
+        Body:
+        a=1;
+        a="h";
+        Return;
+        EndBody.

@@ -1,0 +1,6 @@
+Var: test;
+        Function: main
+            Parameter: x
+            Body:
+            x = test[0];
+            EndBody.

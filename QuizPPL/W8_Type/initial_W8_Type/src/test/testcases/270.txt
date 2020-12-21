@@ -1,0 +1,5 @@
+Function: how Body:
+                For (i = get(2), i < 56, 1) Do
+                    If i == 3 Then i = i \ 2; Else Return; EndIf.
+                EndFor.
+            EndBody.

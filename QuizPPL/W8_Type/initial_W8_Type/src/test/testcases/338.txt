@@ -1,0 +1,15 @@
+Function: main
+Body:
+Var: a;
+If a Then 
+    Var: a;
+    While a Do 
+        Var: a;
+        For (a=a,a,a) Do
+            Var: a;
+            Do Var: a; While a 
+            EndDo.
+        EndFor.
+    EndWhile.
+Else Var: a; EndIf.
+EndBody.

@@ -1,0 +1,6 @@
+ Var: x, foo;
+                    Function: main
+                    Body:
+                        Var: main;
+                    EndBody.
+                    

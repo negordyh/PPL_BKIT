@@ -1,0 +1,4 @@
+Function: how Body:
+            Var x = 3;
+            Body: EndBody.
+        EndBody.

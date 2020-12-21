@@ -1,0 +1,6 @@
+ Function: main
+                    Body:
+                        Var: y[3];
+                        y = {True, False, True};
+                    EndBody.
+                    

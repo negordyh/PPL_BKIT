@@ -1,0 +1,8 @@
+
+    Function: main
+    Body:
+    If a Then
+        For (a=a,a,a) Do EndFor.
+    EndIf.
+    EndBody.
+    

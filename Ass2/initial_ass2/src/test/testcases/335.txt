@@ -1,0 +1,6 @@
+Function: main
+Body:
+If a Then a=b; Else 
+    Var: a[1][2];
+EndIf.
+EndBody.

@@ -1,0 +1,3 @@
+Function: how Body:
+                Do Break; While True Do x = get(); EndWhile. While True EndDo.
+            EndBody.

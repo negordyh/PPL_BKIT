@@ -1,0 +1,5 @@
+Function: main
+Body:
+If a==b Then Break;
+EndIf.
+EndBody.

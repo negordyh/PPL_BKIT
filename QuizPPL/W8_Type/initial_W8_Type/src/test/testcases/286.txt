@@ -1,0 +1,4 @@
+Function: main
+        Parameter: a, c[1] Body:
+        Var: x = "sdasdas"; a = "True";
+        If x == a Then x = x - a; While True Do Var: l = True; EndDo. EndIf. EndBody.

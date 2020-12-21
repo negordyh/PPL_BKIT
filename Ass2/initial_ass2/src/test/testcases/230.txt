@@ -1,0 +1,4 @@
+Function: how Body:
+            Var: x= 2 - 5 * 4;
+            Body: EndBody.
+        EndBody.

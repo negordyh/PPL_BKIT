@@ -1,0 +1,2 @@
+Var: a, b, c= {2}, d; Function: main
+        Parameter: a, c[1] Body: Var: x = how(); EndBody. 

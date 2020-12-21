@@ -1,0 +1,7 @@
+Function: foo
+        Body:
+            While ((i < 5) == (3 < 2 + 5*4)) Do
+                a[i] = b +. 1.0;
+                i = i + 1;
+            EndWhile.   
+        EndBody.

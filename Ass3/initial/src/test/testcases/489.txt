@@ -1,0 +1,12 @@
+ 
+                    Function: main
+                    Body:
+                    Var: a;
+                        If True Then Var:x;
+                            While True Do  
+                                If False Then a=1; EndIf.
+                            EndWhile.
+                        EndIf.
+                        a=1.1;
+                    EndBody.
+                    

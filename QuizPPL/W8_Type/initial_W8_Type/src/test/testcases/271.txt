@@ -1,0 +1,7 @@
+Function: how Body:
+                For (i = 1024, i > get("json"), -3) Do
+                    For (k= 0,k<3,1) Do
+                        If k == 3 Then k = k \ 2; Else Return; EndIf.
+                    EndFor.
+                EndFor.
+            EndBody.

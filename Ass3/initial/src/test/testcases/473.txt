@@ -1,0 +1,13 @@
+ Var: y[2];
+                    Function: main
+                    Parameter: z[2]
+                    Body:
+                        z = {1, 2};
+                        z = y;
+                    EndBody.
+
+                    Function: foo
+                    Body:
+                        y = {"h", "o"};
+                    EndBody.
+                    

@@ -1,0 +1,12 @@
+
+        Var: a = 5;
+        Var: b[2][3] = {{2,3,4},{4,5,6}};
+        Var: c, d = 6, e, f;
+        Var: m, n[10];
+        Function: fact
+        Parameter: a[10][2],a_bbbb, a[1]
+        Body:
+            
+        EndBody.
+
+        

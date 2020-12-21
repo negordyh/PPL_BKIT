@@ -1,0 +1,5 @@
+Var : gbVar = "Hello", var2 = "World";
+Var : x = 12;
+Function : foo
+Body:
+EndBody. 

@@ -1,0 +1,15 @@
+
+            Function: main
+            Body:
+                While x>1 Do
+                    While x>2 Do
+                        While x>3 Do
+                            While x>4 Do
+                                print(x);
+                            EndWhile.
+                        EndWhile.
+                    EndWhile.
+                EndWhile.
+            EndBody.        
+
+        

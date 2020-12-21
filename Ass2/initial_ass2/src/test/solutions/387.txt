@@ -1,0 +1,1 @@
+Program([VarDecl(Id(gbVar),StringLiteral(Hello)),VarDecl(Id(var2),StringLiteral(World)),VarDecl(Id(x),IntLiteral(12)),FuncDecl(Id(foo)[],([][]))])

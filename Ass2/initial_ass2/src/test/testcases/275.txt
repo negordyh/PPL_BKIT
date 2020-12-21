@@ -1,0 +1,3 @@
+Function: how Body:
+                Do Do print(x); While (x\2 > 3) EndDo. While (x*2 > 3) EndDo.
+            EndBody.

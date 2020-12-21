@@ -1,0 +1,7 @@
+
+        Var: a,b,c=1;
+
+        Function: a
+        Body:
+        Return;
+        EndBody.

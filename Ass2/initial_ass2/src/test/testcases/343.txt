@@ -1,0 +1,4 @@
+Function: main
+Body:
+foo(a)[3]=1;
+EndBody.

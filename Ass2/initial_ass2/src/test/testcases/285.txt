@@ -1,0 +1,4 @@
+Function: main
+        Parameter: a, c[1] Body:
+        a = "True";
+        Var: x = "sdasdas"; EndBody. Var: b;

@@ -1,0 +1,15 @@
+
+            Var: a;
+            Function: foo
+            Parameter: b,c
+            Body:
+                Return 1;
+            EndBody.
+                       
+            Function: main
+            Parameter: b,c
+            Body:
+                a = arr[10];
+            EndBody.
+            
+            

@@ -1,0 +1,3 @@
+Function: how Body:
+                Do print(x); While isPrime(x) EndDo.
+            EndBody.

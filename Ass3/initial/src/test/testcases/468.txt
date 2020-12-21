@@ -1,0 +1,7 @@
+ Var: y[2];
+                    Function: main
+                    Body:
+                        y = {0X123, 0x124};
+                        y = {True, False};
+                    EndBody.
+                    
