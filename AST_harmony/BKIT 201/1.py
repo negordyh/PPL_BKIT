@@ -2,6 +2,7 @@ class ASTGeneration(MPVisitor):
 # INTTYPE: 'int';
 # FLOATTYPE: 'float';
 # ID: [a-z]+ ;
+
     # program: vardecls EOF;
     def visitProgram(self, ctx: MPParser.ProgramContext):
         return 1 + self.visit(ctx.vardecls())
